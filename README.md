@@ -7,7 +7,7 @@
 Passionate software developer with a love for game development.<br>
 Started coding during high school, found joy in overcoming challenges, and embracing the art of creating from scratch.<br>
 
-### 🚀 My Skills
+### 🚀 Technologies Used
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,mui,bootstrap,js,ts,jquery,vue,nextjs,nodejs,express,php,laravel,symfony,c,mysql,github,git,vscode,nginx&theme=dark)](https://skillicons.dev/)
 
