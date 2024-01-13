@@ -1,6 +1,5 @@
-### Hi there 👋
 
-## Hello, I'm Florin
+## Hello 👋, I'm Florin
 
 ### 👨‍💻 About Me
 
