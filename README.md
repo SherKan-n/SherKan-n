@@ -9,7 +9,7 @@ Started coding during high school, found joy in overcoming challenges, and embra
 
 ### 🚀 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,mui,js,ts,jquery,vue,nextjs,nodejs,express,php,laravel,symfony,c,mysql,github,git,vscode,nginx&theme=dark)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,mui,bootstrap,js,ts,jquery,vue,nextjs,nodejs,express,php,laravel,symfony,c,mysql,github,git,vscode,nginx&theme=dark)](https://skillicons.dev/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sherkan-n&layout=compact&theme=dark)
 
