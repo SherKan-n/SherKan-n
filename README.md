@@ -3,6 +3,7 @@
 
 ### 👨‍💻 About Me
 [![Hits](https://hits.sh/github.com/sherkan-n/hits.svg?color=blueviolet&label=Profile%20views)](https://hits.sh/github.com/silentsoft/hits/)
+
 Passionate software developer with a love for game development.
 Started coding during high school, found joy in overcoming challenges, and embracing the art of creating from scratch.
 
