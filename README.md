@@ -9,9 +9,23 @@ Started coding during high school, found joy in overcoming challenges, and embra
 
 ### 🚀 Technologies Used
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,mui,bootstrap,js,ts,jquery,vue,nextjs,nodejs,express,php,laravel,symfony,c,mysql,github,git,vscode,nginx&theme=dark)](https://skillicons.dev/)
+##### Frontend
+![HTML](https://img.shields.io/badge/HTML-red) ![CSS](https://img.shields.io/badge/CSS-dodgerblue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38bdf8) ![Bootstrap](https://img.shields.io/badge/Bootstrap-712cf9) ![Material UI](https://img.shields.io/badge/Material%20UI-0072E5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sherkan-n&layout=compact&theme=dark)
+##### JavaScript & JavaScript Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![jQuery](https://img.shields.io/badge/jQuery-white) ![TypeScript](https://img.shields.io/badge/TypeScript-007acc)
+![Vue.js](https://img.shields.io/badge/Vue.js-00c180) ![React](https://img.shields.io/badge/React-149eca) ![Next.js](https://img.shields.io/badge/Next.js-black)
+
+##### Backend & PHP
+![Node.js](https://img.shields.io/badge/Node.js-84ba64) ![Express](https://img.shields.io/badge/Express-white)
+![PHP](https://img.shields.io/badge/PHP-4f5b93) ![Laravel](https://img.shields.io/badge/Laravel-EB4432) ![Symfony](https://img.shields.io/badge/Symfony-black) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-dd4814)
+
+##### Databases & Package Managers
+![MySQL](https://img.shields.io/badge/MySQL-e48c00) ![MongoDB](https://img.shields.io/badge/MongoDB-00AA57)
+![npm](https://img.shields.io/badge/npm-cc3534) ![yarn](https://img.shields.io/badge/yarn-514C87) ![pnpm](https://img.shields.io/badge/pnpm-f69220)
+
+##### Miscellaneous
+![PAWN](https://img.shields.io/badge/PAWN-ce8737) ![C](https://img.shields.io/badge/C-659bd3) ![MATLAB](https://img.shields.io/badge/MATLAB-750000)
 
 ### 📊 GitHub Stats
 
