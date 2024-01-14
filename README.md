@@ -25,7 +25,7 @@ Started coding during high school, found joy in overcoming challenges, and embra
 ![npm](https://img.shields.io/badge/npm-cc3534) ![yarn](https://img.shields.io/badge/yarn-514C87) ![pnpm](https://img.shields.io/badge/pnpm-f69220)
 
 #### Miscellaneous
-![PAWN](https://img.shields.io/badge/PAWN-ce8737) ![C](https://img.shields.io/badge/C-659bd3) ![MATLAB](https://img.shields.io/badge/MATLAB-750000)
+![PAWN](https://img.shields.io/badge/PAWN-ce8737) ![C](https://img.shields.io/badge/C-659bd3) ![MATLAB](https://img.shields.io/badge/MATLAB-750000) ![NGINX](https://img.shields.io/badge/NGINX-009639)
 
 ### 📊 GitHub Stats
 
